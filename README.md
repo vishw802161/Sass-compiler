@@ -4,7 +4,7 @@ Minimum Static Site Setup with Sass.
 <div>
   <h3>File structure</h3>
     <ul>
-      <li>asset</li>
+      <li>assets</li>
       <li>src</li>
       <ul>
         <li>scss</li>
